@@ -12,8 +12,6 @@ permalink: /companies/
 * [Resecurity](https://www.resecurity.com/)
 * [Silent Storm Security](https://www.silentstormsecurity.com/)
 
-## Research & Development
-
 ## Non-profits
 * [LA Cyber Lab](https://www.lacyberlab.org/)
 * [SecureTheVillage](https://securethevillage.org/)
