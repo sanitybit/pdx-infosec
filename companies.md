@@ -33,6 +33,7 @@ permalink: /companies/
 * [City National Bank](https://www.cnb.com/)
 * [Grindr](https://www.grindr.com/)
 * [Legendary Pictures](https://www.legendary.com/)
+* [Prodege](https://www.prodege.com)
 * [Ring](https://ring.com/)
 * [Riot Games](https://www.riotgames.com/en)
 * [Rival](https://rival.co/)
