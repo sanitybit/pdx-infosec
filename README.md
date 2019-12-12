@@ -14,8 +14,9 @@ footer: an event
 * [South Bay WASP](https://www.meetup.com/SouthBayWASP/)
 
 ## Conferences
+* [Security Summit](https://www.lacyberlab.org/cyber-events/) (September)
 * [Cybersecure](https://securethevillage.org/cybersecure-socal-2019/) (October)
 * [ShellCon](https://shellcon.io/) (October)
-* [Security Summit](https://www.lacyberlab.org/cyber-events/) (September)
+* [Cyber Security Summit](https://cybersummitusa.com/losangeles19/) (December)
 
 If you would like your event listed or have an event to contribute, email <a href="mailto:la-tips@trailofbits.com">la-tips@trailofbits.com</a>.
