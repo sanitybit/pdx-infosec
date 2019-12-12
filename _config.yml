@@ -27,3 +27,5 @@ github_username:  trailofbits
 # Build settings
 markdown: kramdown
 #theme: minima
+
+theme: jekyll-theme-slate
