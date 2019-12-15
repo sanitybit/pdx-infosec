@@ -46,6 +46,7 @@ permalink: /companies/
 
 ## Remote Offices
 * [Blackberry](https://www.cylance.com/en-us/index.html) (formerly Cylance)
+* [Booz Allen Hamilton](https://www.boozallen.com/)
 * [Mantech](https://www.mantech.com/)
 * [MIT Lincoln Labs](https://www.ll.mit.edu/)
 * [MITRE](http://mitre.org)
@@ -56,4 +57,3 @@ permalink: /companies/
 * [Rapid7](https://www.rapid7.com/)
 * [Rand Corporation](https://www.rand.org/)
 * [Trail of Bits](https://www.trailofbits.com/)
-
