@@ -30,6 +30,7 @@ permalink: /companies/
 * [XYPRO](https://www.xypro.com/)
 
 ## Security Teams
+* [Aerospace Corporation](https://aerospace.org/)
 * [City National Bank](https://www.cnb.com/)
 * [Grindr](https://www.grindr.com/)
 * [Legendary Pictures](https://www.legendary.com/)
@@ -46,10 +47,13 @@ permalink: /companies/
 ## Remote Offices
 * [Blackberry](https://www.cylance.com/en-us/index.html) (formerly Cylance)
 * [Booz Allen Hamilton](https://www.boozallen.com/)
+* [Mantech](https://www.mantech.com/)
+* [MIT Lincoln Labs](https://www.ll.mit.edu/)
+* [MITRE](http://mitre.org)
 * [Netflix](https://www.netflix.com/)
 * [Northrup Grumman](https://www.northropgrumman.com/Pages/default.aspx)
-* [Mantech](https://www.mantech.com/)
 * [Peraton](https://www.peraton.com/)
 * [Postmates](https://postmates.com/)
 * [Rapid7](https://www.rapid7.com/)
+* [Rand Corporation](https://www.rand.org/)
 * [Trail of Bits](https://www.trailofbits.com/)
