@@ -18,3 +18,9 @@ permalink: /learn/
 
 ## Mt. Hood Community College
 * [Oregon Center for Cybersecurity at MHCC](https://www.mhcc.edu/OCCS/)
+
+# Hackerspaces
+
+## Portland Area
+* [CTRL+H](https://pdxhackerspace.org/)
+* [Hedron](https://hhacker.space/)
