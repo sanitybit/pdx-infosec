@@ -8,10 +8,4 @@ Within each category, entries are listed in alphabetical order.
 
 ### Company Rules
 
-1. If it's not founded or headquartered in Portland, it's a remote office.
-2. Teams must have 2 or more security engineers in an office together.
-
-### Investor Rules
-
-1. Investors must have an office and a partner in Portland that specialize in security.
-2. Investors must have one or more active deals with a cybersecurity company.
+1. Teams must have 2 or more security engineers in an office together.
