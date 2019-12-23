@@ -7,53 +7,17 @@ permalink: /companies/
 # Companies
 
 ## Consulting
-* [Cyber Defense Group](https://www.cdg.io/)
-* [Opsec360](https://www.opsec360.com/)
-* [Resecurity](https://www.resecurity.com/)
-* [Silent Storm Security](https://www.silentstormsecurity.com/)
+* [Neural Earth](https://www.neuralearth.io/)
 
 ## Non-profits
-* [LA Cyber Lab](https://www.lacyberlab.org/)
-* [SecureTheVillage](https://securethevillage.org/)
+* [CTRL+H](https://pdxhackerspace.org/)
 
 ## Products
-* [AuditBoard](https://www.auditboard.com/)
-* [Cujo](https://cujo.com/)
-* [GoGuardian](https://www.goguardian.com/)
-* [HackEDU](https://hackedu.io/)
-* [Imperva](https://www.imperva.com/)
-* [Obsidian](https://www.obsidiansecurity.com/)
-* [Security First](https://securityfirstcorp.com/)
-* [Securonix](https://www.securonix.com/)
-* [Signal Sciences](https://www.signalsciences.com/)
-* [Templar Bit](https://www.templarbit.com/)
-* [XYPRO](https://www.xypro.com/)
+* [Eclypsium](https://eclypsium.com/)
 
 ## Security Teams
-* [Aerospace Corporation](https://aerospace.org/)
-* [City National Bank](https://www.cnb.com/)
-* [Grindr](https://www.grindr.com/)
-* [Legendary Pictures](https://www.legendary.com/)
-* [Prodege](https://www.prodege.com)
-* [Ring](https://ring.com/)
-* [Riot Games](https://www.riotgames.com/en)
-* [Rival](https://rival.co/)
-* [Snap](https://www.snap.com/en-US/)
-* [SpaceX](https://www.spacex.com/)
-* [Spring Labs](https://www.springlabs.com/)
-* [Tala](https://tala.co/)
-* [Verifi](https://www.verifi.com/)
-
-## Remote Offices
+* [Intel](https://www.intel.com/content/www/us/en/homepage.html)
+* [Nike](https://www.nike.com)
+* [New Relic](https://www.newrelic.com)
 * [Blackberry](https://www.cylance.com/en-us/index.html) (formerly Cylance)
-* [Booz Allen Hamilton](https://www.boozallen.com/)
-* [Mantech](https://www.mantech.com/)
-* [MIT Lincoln Labs](https://www.ll.mit.edu/)
-* [MITRE](http://mitre.org)
-* [Netflix](https://www.netflix.com/)
-* [Northrup Grumman](https://www.northropgrumman.com/Pages/default.aspx)
-* [Peraton](https://www.peraton.com/)
-* [Postmates](https://postmates.com/)
-* [Rapid7](https://www.rapid7.com/)
-* [Rand Corporation](https://www.rand.org/)
-* [Trail of Bits](https://www.trailofbits.com/)
+* [Salesforce](https://www.salesforce.com/)
