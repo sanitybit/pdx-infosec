@@ -18,5 +18,3 @@ footer: an event
 
 ## Conferences
 * [BSides Portland](https://bsidespdx.org/) (October)
-
-If you would like your event listed or have an event to contribute, email <a href="mailto:sanitybit@gmail.com">sanitybit@gmail.com</a>.
