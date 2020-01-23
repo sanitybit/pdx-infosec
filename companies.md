@@ -7,10 +7,10 @@ permalink: /companies/
 # Companies
 
 ## Consulting
-* [Anitian](https://www.anitian.com)
 * [Neural Earth](https://www.neuralearth.io/)
 
 ## Products
+* [Anitian](https://www.anitian.com)
 * [Eclypsium](https://eclypsium.com/)
 * [Tripwire](https://tripwire.com)
 
