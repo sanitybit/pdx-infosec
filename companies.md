@@ -12,6 +12,7 @@ permalink: /companies/
 ## Products
 * [Anitian](https://www.anitian.com)
 * [Eclypsium](https://eclypsium.com/)
+* [Kanchil](https://kanchil.com/)
 * [Tripwire](https://tripwire.com)
 
 ## Security Teams
