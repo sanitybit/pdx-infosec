@@ -21,4 +21,5 @@ permalink: /companies/
 * [Intel](https://www.intel.com/content/www/us/en/homepage.html)
 * [New Relic](https://www.newrelic.com)
 * [Nike](https://www.nike.com)
+* [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
 * [Salesforce](https://www.salesforce.com/)
