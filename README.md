@@ -39,3 +39,4 @@ footer: an event
 
 ## Conferences
 * [BSides Portland](https://bsidespdx.org/) (October)
+* [Hackboat](https://hackboat.org) (April)
