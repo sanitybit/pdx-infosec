@@ -7,6 +7,7 @@ permalink: /companies/
 # Companies
 
 ## Consulting
+* [Harmonium](https://www.harmoniumllc.com/)
 * [Neural Earth](https://www.neuralearth.io/)
 * [Summit Security Group](https://summitinfosec.com/)
 
