@@ -11,7 +11,8 @@ permalink: /learn/
   * [Cyber Risk Professional Certification](https://www.pdx.edu/computer-science/cybersecurity-graduate-certificate)
 
 ## University of Portland
-* [CS 548 Topics in Cybersecurity](http://up.smartcatalogiq.com/2019-2020/bulletin/Courses/CS-Computer-Science/Graduate-Courses/CS-548)
+* [CS 448 Topics in Cybersecurity](http://up.smartcatalogiq.com/2020-2021/bulletin/Courses/CS-Computer-Science/Graduate-Courses/CS-448)
+* [CS 548 Topics in Cybersecurity](http://up.smartcatalogiq.com/2020-2021/bulletin/Courses/CS-Computer-Science/Graduate-Courses/CS-548)
 
 ## Portland Community College
 * [PCC Cybersecurity Center](https://www.pcc.edu/programs/computer-info/cyber-security.html)
