@@ -38,5 +38,6 @@ footer: an event
   + Reach out to [Mike Magura](https://www.linkedin.com/in/mike-magura-0122412/) to find out if you're eligible to attend.
 
 ## Conferences
-* [BSides Portland](https://bsidespdx.org/) (October)
-* [Hackboat](https://hackboat.org) (April)
+* [BSides Portland](https://bsidespdx.org/) (Fall 2022)
+* [Hackboat](https://hackboat.org) (Spring 2022)
+* [Pacific Northwest Application Security Conference](https://pnwcon.com/) (June 19th 2021)
