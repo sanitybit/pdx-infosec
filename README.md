@@ -40,4 +40,4 @@ footer: an event
 ## Conferences
 * [BSides Portland](https://bsidespdx.org/) (Fall 2022)
 * [Hackboat](https://hackboat.org) (Spring 2022)
-* [Pacific Northwest Application Security Conference](https://pnwcon.com/) (June 19th 2021)
+* [Pacific Northwest Application Security Conference](https://pnwcon.com/) (2022)
