@@ -27,9 +27,9 @@ footer: an event
   + Networking focused group for cyber-security professionals to share their experiences and knowledge.
 
 ## Professional Organizations
-* [ISACA Willamette Valley](https://www.isaca-oregon.org/)
-  + The Willamette Valley Chapter of ISACA represents IT Security, Audit and Compliance Professionals in the Oregon/SW Washington region.
-  + ISACA meetings are for dues-paying chapter members. You can find information on membership [here](https://www.isaca-oregon.org/membership.html).
+* [ISACA Willamette Valley](https://engage.isaca.org/portlandoregonchapter/aboutchapter/about)
+  + The Portland Oregon Chapter of ISACA represents IT Security, Audit and Compliance Professionals in the Oregon/SW Washington region.
+  + ISACA meetings are for dues-paying chapter members. You can find information on membership [here](https://engage.isaca.org/portlandoregonchapter/aboutchapter/membership).
 * [ISSA Portland](http://portland.issa.org/)
   + The Information Systems Security Association is a not-for-profit, international organization of information security professionals and practitioners.
   + ISSA meetings are for dues-paying chapter members. You can find information on membership [here](https://www.members.issa.org/page/join-now).
