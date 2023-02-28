@@ -8,7 +8,7 @@ permalink: /companies/
 
 ## Consulting & Training
 * [Harmonium](https://www.harmoniumllc.com/)
-* [Neural Earth](https://www.neuralearth.io/)
+* [Purple Folder](https://www.purplefolder.com/)
 * [Securing Hardware](https://securinghardware.com/)
 * [Summit Security Group](https://summitinfosec.com/)
 
