@@ -18,7 +18,7 @@ footer: an event
   + Currently on hiatus, with plans to resume in-person meetups in Q2/Q3 2023.
 * [Exploit Workshop](http://calagator.org/events/search?utf8=%E2%9C%93&query=exploit+workshop)
   + An open, self driven event for people interested in computer security. Whether you're a novice or career professional, all are welcome.
-  + _Usually_ meets at 7:00pm every Wednesday at [CTRL+H](https://pdxhackerspace.org/) (7600 N Interstate Ave).
+  + Currently meeting virtually, contact [@deanpierce](https://twitter.com/deanpierce) for more information.
 * [OWASP PDX](https://www.meetup.com/OWASP-Portland-Chapter/)
   + The Open Web Application Security Project (OWASP) is a free and open community focused on improving the security of application software. 
 * [Portland CyberSecurity Group (PCS)](https://www.meetup.com/CSNP-Portland-CyberSecurity/) 
