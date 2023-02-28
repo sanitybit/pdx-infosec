@@ -9,7 +9,7 @@ footer: an event
 ## Community Meetups
 * [2600](https://pdx2600.org/)
   + Portland's original hacker meetup. No leaders, no rules, just the free exchange of ideas.
-  + Meets at 7:00pm every first Friday of the month at the [Central Eastside Sizzle Pie](https://www.sizzlepie.com/store-page-east-burnside) (624 East Burnside). 
+  + Meets at 7:00pm every first Friday of the month at [East Burnside Sizzle Pie](https://www.sizzlepie.com/store-page-east-burnside) (624 E Burnside). 
 * [CitySec PDX: RainSec](https://www.meetup.com/RainSec/)
   + RainSec is an informal group of like-minded security professionals who meet to network and discuss topics of interest in a non-work, non-vendor setting.
   + Meets at 6:30pm every last Tuesday of the month at [Lucky Lab SE](https://luckylab.com/hawthorne-brew-pub/) (915 SE Hawthorne Blvd).
