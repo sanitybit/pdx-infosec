@@ -38,7 +38,7 @@ footer: an event
 
 ## Conferences
 * [ExploitCon Portland](https://exploitcon.com/#/5a144a20656e4c29954a1aac97f081f9) (April 2023)
-* [BSides Seattle] (https://www.bsidesseattle.com/) (May 2023) 
+* [BSides Seattle](https://www.bsidesseattle.com/) (May 2023) 
 * [AppSec Days Pacific Northwest Conference](https://www.appsecpnw.org/) (June 2023)
 * [BSides Portland](https://bsidespdx.org/) (Fall 2023)
 * [Hackboat](https://hackboat.org) (On Hiatus)
