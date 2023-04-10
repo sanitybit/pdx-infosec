@@ -37,8 +37,8 @@ footer: an event
   + Reach out to [Mike Magura](https://www.linkedin.com/in/mike-magura-0122412/) to find out if you're eligible to attend.
 
 ## Conferences
-* [ExploitCon Portland](https://exploitcon.com/#/5a144a20656e4c29954a1aac97f081f9) (April 2023)
 * [BSides Seattle](https://www.bsidesseattle.com/) (May 2023) 
+* [ExploitCon Portland](https://exploitcon.com/#/5a144a20656e4c29954a1aac97f081f9) (June 2023)
 * [AppSec Days Pacific Northwest Conference](https://www.appsecpnw.org/) (June 2023)
 * [BSides Portland](https://bsidespdx.org/) (Fall 2023)
 * [Hackboat](https://hackboat.org) (On Hiatus)
