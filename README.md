@@ -15,10 +15,10 @@ footer: an event
   + Meets at 6:30pm every last Tuesday of the month at [Lucky Lab SE](https://luckylab.com/hawthorne-brew-pub/) (915 SE Hawthorne Blvd).
 * [DC503](http://503.ninja/)
   + This Defcon group is Portland's offensive security focused hacker fight club.
-  + Currently on hiatus, with plans to resume in-person meetups in Q2/Q3 2023.
+  + Currently on hiatus, with plans to resume in-person meetups in Q3 2023.
 * [Exploit Workshop](http://calagator.org/events/search?utf8=%E2%9C%93&query=exploit+workshop)
   + An open, self driven event for people interested in computer security. Whether you're a novice or career professional, all are welcome.
-  + Currently meeting virtually, contact [@deanpierce](https://twitter.com/deanpierce) for more information.
+  + Meeting in-person w/ optional virtual attendance, contact [@deanpierce](https://twitter.com/deanpierce) for more information.
 * [OWASP PDX](https://www.meetup.com/OWASP-Portland-Chapter/)
   + The Open Web Application Security Project (OWASP) is a free and open community focused on improving the security of application software. 
 * [Portland CyberSecurity Group (PCS)](https://www.meetup.com/CSNP-Portland-CyberSecurity/) 
@@ -29,6 +29,10 @@ footer: an event
 * [ISACA Portland](https://engage.isaca.org/portlandoregonchapter/aboutchapter/about)
   + The Portland Oregon Chapter of ISACA represents IT Security, Audit and Compliance Professionals in the Oregon/SW Washington region.
   + ISACA meetings are for dues-paying chapter members. You can find information on membership [here](https://engage.isaca.org/portlandoregonchapter/aboutchapter/membership).
+* [(ISC)² Willamette Valley]([https://engage.isaca.org/portlandoregonchapter/aboutchapter/about](https://caladins.wixsite.com/isc2chapteroregon))
+  + (ISC)² chapter membership connects you with your local peers so you can network and give back to the community by sharing your time, talent, knowledge, and experience.
+  + A monthly virtual meeting open to anyone in Oregon or Southwest Washington, and an annual in-person meeting.
+  + Membership is not limited to existing (ISC)² members, anyone can join.
 * [ISSA Portland](http://portland.issa.org/)
   + The Information Systems Security Association is a not-for-profit, international organization of information security professionals and practitioners.
   + ISSA meetings are for dues-paying chapter members. You can find information on membership [here](https://www.members.issa.org/page/join-now).
@@ -40,6 +44,6 @@ footer: an event
 * [BSides Seattle](https://www.bsidesseattle.com/) (May 2023) 
 * [ExploitCon Portland](https://exploitcon.com/#/5a144a20656e4c29954a1aac97f081f9) (June 2023)
 * [AppSec Days Pacific Northwest Conference](https://www.appsecpnw.org/) (June 2023)
-* [BSides Portland](https://bsidespdx.org/) (Fall 2023)
+* [BSides Portland](https://bsidespdx.org/) (October 2023)
 * [Hackboat](https://hackboat.org) (On Hiatus)
 
