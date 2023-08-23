@@ -29,7 +29,7 @@ footer: an event
 * [ISACA Portland](https://engage.isaca.org/portlandoregonchapter/aboutchapter/about)
   + The Portland Oregon Chapter of ISACA represents IT Security, Audit and Compliance Professionals in the Oregon/SW Washington region.
   + ISACA meetings are for dues-paying chapter members. You can find information on membership [here](https://engage.isaca.org/portlandoregonchapter/aboutchapter/membership).
-* [(ISC)² Willamette Valley]([https://engage.isaca.org/portlandoregonchapter/aboutchapter/about](https://caladins.wixsite.com/isc2chapteroregon))
+* [(ISC)² Willamette Valley](https://caladins.wixsite.com/isc2chapteroregon)
   + (ISC)² chapter membership connects you with your local peers so you can network and give back to the community by sharing your time, talent, knowledge, and experience.
   + A monthly virtual meeting open to anyone in Oregon or Southwest Washington, and an annual in-person meeting.
   + Membership is not limited to existing (ISC)² members, anyone can join.
