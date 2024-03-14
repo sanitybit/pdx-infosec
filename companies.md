@@ -6,7 +6,8 @@ permalink: /companies/
 
 # Companies
 
-## Consulting & Training
+## Consulting, Training, & Managed Service Providers
+* [Bytagig](https://www.bytagig.com/portland/)
 * [Harmonium](https://www.harmoniumllc.com/)
 * [Purple Folder](https://www.purplefolder.com/)
 * [Securing Hardware](https://securinghardware.com/)
@@ -24,7 +25,7 @@ permalink: /companies/
 * [Blackberry](https://www.cylance.com/en-us/index.html) (formerly Cylance)
 * [Columbia Sportswear](https://www.columbia.com/)
 * [Intel](https://www.intel.com/content/www/us/en/homepage.html)
-* [Mosaic451](https://mosaic451.com)
+* [UltraViolet Cyber](https://www.uvcyber.com)
 * [New Relic](https://www.newrelic.com)
 * [Nike](https://www.nike.com)
 * [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
