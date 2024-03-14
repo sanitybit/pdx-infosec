@@ -24,6 +24,9 @@ footer: an event
 * [Portland CyberSecurity Group (PCS)](https://www.meetup.com/CSNP-Portland-CyberSecurity/) 
   + The Portland chapter of the [CyberSecurity Non-Profit (CSNP)](https://www.cybersecuritynp.org/); a 501(c)(3) non-profit promoting security education and inclusivity.
   + Typically a virtual meeting with presentations.
+* [Hack in The Box Meetup (Vancouver, WA)](https://www.meetup.com/hack-the-box-meetup-vancouver-wa/)
+  + Join fellow cybersecurity enthusiasts for discussions, knowledge exchange, and hands-on hacking on dedicated Hack The Box machines.
+  + Typically a virtual meeting hosted on Discord.
 
 ## Professional Organizations
 * [Cybersecurity Collaboration Forum: PDX](https://www.cybersecuritycollaboration.com/community/portland-or)
