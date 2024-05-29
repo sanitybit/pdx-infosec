@@ -46,8 +46,7 @@ footer: an event
   + You can find information on membership [here](https://www.members.issa.org/page/join-now).
     
 ## Conferences
-* [BSides Seattle](https://www.bsidesseattle.com/) (April 2024) 
 * [AppSec Days Pacific Northwest Conference (Vancouver BC)](https://www.appsecpnw.org/) (June 2024)
+* [Hackboat](https://hackboat.org) (July 2024)
 * [BSides Portland](https://bsidespdx.org/) (October 2024)
-* [Hackboat](https://hackboat.org) (On Hiatus)
 
