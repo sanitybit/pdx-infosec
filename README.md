@@ -29,24 +29,21 @@ footer: an event
   + Typically a virtual meeting hosted on Discord.
 
 ## Professional Organizations
-* [Cybersecurity Collaboration Forum: PDX](https://www.cybersecuritycollaboration.com/community/portland-or)
-  + A group of Portland area information security executives and senior decision makers that meet to talk high level security strategy (usually over dinner).
-  + Meets sporadically, but the latest events are always listed in the footer of the communities page.
-* [ISACA Portland](https://engage.isaca.org/portlandoregonchapter/aboutchapter/about)
+* [ISACA Portland](https://engage.isaca.org/portlandoregonchapter/about/aboutchapter)
   + The Portland Oregon Chapter of ISACA represents IT Security, Audit and Compliance Professionals in the Oregon/SW Washington region.
   + ISACA meetings are for dues-paying chapter members.
-  + You can find information on membership [here](https://engage.isaca.org/portlandoregonchapter/aboutchapter/membership).
-* [(ISC)² Willamette Valley](https://caladins.wixsite.com/isc2chapteroregon)
+* [(ISC)² Oregon Chapter](https://isc2chapteroregon.wixsite.com/website)
   + (ISC)² chapter membership connects you with your local peers so you can network and give back to the community by sharing your time, talent, knowledge, and experience.
-  + A monthly virtual meeting open to anyone in Oregon or Southwest Washington, and an annual in-person meeting.
   + Membership is not limited to existing (ISC)² members, anyone can join.
 * [ISSA Portland](http://portland.issa.org/)
   + The Information Systems Security Association is a not-for-profit, international organization of information security professionals and practitioners.
   + ISSA meetings are for dues-paying chapter members, though some lunches have a limited number of non-member tickets available.
   + You can find information on membership [here](https://www.members.issa.org/page/join-now).
-    
+* [Women in Cybersecurity (WiCyS) - Oregon Affiliate](https://www.wicys.org/wicys-oregon-affiliate/)
+  + WiCyS is a global nonprofit community dedicated to recruiting, retaining and advancing women in cybersecurity through mentorship, technical training, professional development, thought leadership, networking and career opportunities.
+
 ## Conferences
-* [AppSec Days Pacific Northwest Conference (Vancouver BC)](https://www.appsecpnw.org/) (June 2024)
-* [Hackboat](https://hackboat.org) (July 2024)
-* [BSides Portland](https://bsidespdx.org/) (October 2024)
+* [AppSec Days Pacific Northwest Conference](https://www.appsecpnw.org/)
+* [Hackboat](https://hackboat.org) (June 5th, 2026)
+* [BSides Portland](https://bsidespdx.org/) (October 23rd and 24th, 2026)
 
